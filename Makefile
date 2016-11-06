@@ -4,8 +4,8 @@ SUBLEVEL = 104
 EXTRAVERSION =
 NAME = TOSSUG Baby Fish
 
-#TOOLCHAIN_DIR = $(CURDIR)/toolchain/aarch64-linux-android-5.3-kernel/bin/aarch64-linux-android-
-TOOLCHAIN_DIR =/home/sick/aarch64-linux-android-5.3-kernel/bin/aarch64-linux-android-
+#TOOLCHAIN_DIR = $(CURDIR)/toolchain/aarch64-7.0/bin/aarch64-
+TOOLCHAIN_DIR =/home/sick/aarch64-7.0/bin/aarch64-
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
